@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+
+# Maven / old build output
+target/
+pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Frontend
+frontend-react/
+node_modules/
+dist/
+frontend-react/node_modules/
+frontend-react/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
